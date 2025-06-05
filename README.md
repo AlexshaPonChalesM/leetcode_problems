@@ -30,4 +30,8 @@
 | ------- |
 | [0278-first-bad-version](https://github.com/AlexshaPonChalesM/leetcode_problems/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/AlexshaPonChalesM/leetcode_problems/tree/master/0374-guess-number-higher-or-lower) |
+## Database
+|  |
+| ------- |
+| [0627-swap-salary](https://github.com/AlexshaPonChalesM/leetcode_problems/tree/master/0627-swap-salary) |
 <!---LeetCode Topics End-->
