@@ -19,8 +19,13 @@
 |  |
 | ------- |
 | [0367-valid-perfect-square](https://github.com/AlexshaPonChalesM/leetcode_problems/tree/master/0367-valid-perfect-square) |
+| [0374-guess-number-higher-or-lower](https://github.com/AlexshaPonChalesM/leetcode_problems/tree/master/0374-guess-number-higher-or-lower) |
 ## String
 |  |
 | ------- |
 | [0500-keyboard-row](https://github.com/AlexshaPonChalesM/leetcode_problems/tree/master/0500-keyboard-row) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/AlexshaPonChalesM/leetcode_problems/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
