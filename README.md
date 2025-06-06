@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/AlexshaPonChalesM/leetcode_problems/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/AlexshaPonChalesM/leetcode_problems/tree/master/0011-container-with-most-water) |
 | [0500-keyboard-row](https://github.com/AlexshaPonChalesM/leetcode_problems/tree/master/0500-keyboard-row) |
 ## Hash Table
 |  |
@@ -34,4 +35,12 @@
 |  |
 | ------- |
 | [0627-swap-salary](https://github.com/AlexshaPonChalesM/leetcode_problems/tree/master/0627-swap-salary) |
+## Two Pointers
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/AlexshaPonChalesM/leetcode_problems/tree/master/0011-container-with-most-water) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/AlexshaPonChalesM/leetcode_problems/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
