@@ -1,22 +1,13 @@
 class Solution {
     public boolean hasAlternatingBits(int n) {
-        ArrayList<Integer> s=new ArrayList<>();
+        int i=-1;
         while(n>0)
         {
-            s.add(n%2);
-            n/=2;
-        }
-        Collections.reverse(s);
-        int arr[]=new int[s.size()];
-        int j=0;
-        for(int i:s)
-        {
-            arr[j++]=i;
-        }
-        for(int i=0;i<arr.length-1;i++)
-        {
-            if(arr[i]==arr[i+1])
-            return false;
+           int rem=n%2;
+           if(i==rem)
+           return false;
+           i=rem;
+           n/=2;
         }
         return true;
     }
