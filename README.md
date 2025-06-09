@@ -29,6 +29,7 @@
 |  |
 | ------- |
 | [0500-keyboard-row](https://github.com/AlexshaPonChalesM/leetcode_problems/tree/master/0500-keyboard-row) |
+| [0742-to-lower-case](https://github.com/AlexshaPonChalesM/leetcode_problems/tree/master/0742-to-lower-case) |
 ## Interactive
 |  |
 | ------- |
