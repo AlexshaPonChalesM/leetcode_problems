@@ -60,4 +60,5 @@
 |  |
 | ------- |
 | [0645-set-mismatch](https://github.com/AlexshaPonChalesM/leetcode_problems/tree/master/0645-set-mismatch) |
+| [0693-binary-number-with-alternating-bits](https://github.com/AlexshaPonChalesM/leetcode_problems/tree/master/0693-binary-number-with-alternating-bits) |
 <!---LeetCode Topics End-->
