@@ -30,6 +30,7 @@
 |  |
 | ------- |
 | [0500-keyboard-row](https://github.com/AlexshaPonChalesM/leetcode_problems/tree/master/0500-keyboard-row) |
+| [0520-detect-capital](https://github.com/AlexshaPonChalesM/leetcode_problems/tree/master/0520-detect-capital) |
 | [0742-to-lower-case](https://github.com/AlexshaPonChalesM/leetcode_problems/tree/master/0742-to-lower-case) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/AlexshaPonChalesM/leetcode_problems/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Interactive
