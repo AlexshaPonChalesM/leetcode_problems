@@ -15,6 +15,7 @@
 | [0001-two-sum](https://github.com/AlexshaPonChalesM/leetcode_problems/tree/master/0001-two-sum) |
 | [0500-keyboard-row](https://github.com/AlexshaPonChalesM/leetcode_problems/tree/master/0500-keyboard-row) |
 | [0645-set-mismatch](https://github.com/AlexshaPonChalesM/leetcode_problems/tree/master/0645-set-mismatch) |
+| [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/AlexshaPonChalesM/leetcode_problems/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Math
 |  |
 | ------- |
@@ -30,6 +31,7 @@
 | ------- |
 | [0500-keyboard-row](https://github.com/AlexshaPonChalesM/leetcode_problems/tree/master/0500-keyboard-row) |
 | [0742-to-lower-case](https://github.com/AlexshaPonChalesM/leetcode_problems/tree/master/0742-to-lower-case) |
+| [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/AlexshaPonChalesM/leetcode_problems/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Interactive
 |  |
 | ------- |
@@ -57,6 +59,7 @@
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/AlexshaPonChalesM/leetcode_problems/tree/master/0561-array-partition) |
+| [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/AlexshaPonChalesM/leetcode_problems/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Bit Manipulation
 |  |
 | ------- |
