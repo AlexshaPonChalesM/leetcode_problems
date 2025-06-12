@@ -74,4 +74,20 @@
 | ------- |
 | [0055-jump-game](https://github.com/AlexshaPonChalesM/leetcode_problems/tree/master/0055-jump-game) |
 | [0198-house-robber](https://github.com/AlexshaPonChalesM/leetcode_problems/tree/master/0198-house-robber) |
+## Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/AlexshaPonChalesM/leetcode_problems/tree/master/0100-same-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/AlexshaPonChalesM/leetcode_problems/tree/master/0100-same-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/AlexshaPonChalesM/leetcode_problems/tree/master/0100-same-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/AlexshaPonChalesM/leetcode_problems/tree/master/0100-same-tree) |
 <!---LeetCode Topics End-->
