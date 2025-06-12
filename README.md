@@ -22,6 +22,7 @@
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/AlexshaPonChalesM/leetcode_problems/tree/master/0070-climbing-stairs) |
 | [0367-valid-perfect-square](https://github.com/AlexshaPonChalesM/leetcode_problems/tree/master/0367-valid-perfect-square) |
 ## Binary Search
 |  |
@@ -74,6 +75,7 @@
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/AlexshaPonChalesM/leetcode_problems/tree/master/0055-jump-game) |
+| [0070-climbing-stairs](https://github.com/AlexshaPonChalesM/leetcode_problems/tree/master/0070-climbing-stairs) |
 | [0152-maximum-product-subarray](https://github.com/AlexshaPonChalesM/leetcode_problems/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/AlexshaPonChalesM/leetcode_problems/tree/master/0198-house-robber) |
 ## Tree
@@ -92,4 +94,8 @@
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/AlexshaPonChalesM/leetcode_problems/tree/master/0100-same-tree) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/AlexshaPonChalesM/leetcode_problems/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
