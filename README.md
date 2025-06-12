@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/AlexshaPonChalesM/leetcode_problems/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/AlexshaPonChalesM/leetcode_problems/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/AlexshaPonChalesM/leetcode_problems/tree/master/0055-jump-game) |
+| [0152-maximum-product-subarray](https://github.com/AlexshaPonChalesM/leetcode_problems/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/AlexshaPonChalesM/leetcode_problems/tree/master/0198-house-robber) |
 | [0500-keyboard-row](https://github.com/AlexshaPonChalesM/leetcode_problems/tree/master/0500-keyboard-row) |
 | [0561-array-partition](https://github.com/AlexshaPonChalesM/leetcode_problems/tree/master/0561-array-partition) |
@@ -73,6 +74,7 @@
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/AlexshaPonChalesM/leetcode_problems/tree/master/0055-jump-game) |
+| [0152-maximum-product-subarray](https://github.com/AlexshaPonChalesM/leetcode_problems/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/AlexshaPonChalesM/leetcode_problems/tree/master/0198-house-robber) |
 ## Tree
 |  |
