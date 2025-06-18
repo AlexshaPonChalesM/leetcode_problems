@@ -13,6 +13,7 @@
 | [0500-keyboard-row](https://github.com/AlexshaPonChalesM/leetcode_problems/tree/master/0500-keyboard-row) |
 | [0561-array-partition](https://github.com/AlexshaPonChalesM/leetcode_problems/tree/master/0561-array-partition) |
 | [0645-set-mismatch](https://github.com/AlexshaPonChalesM/leetcode_problems/tree/master/0645-set-mismatch) |
+| [3790-fruits-into-baskets-ii](https://github.com/AlexshaPonChalesM/leetcode_problems/tree/master/3790-fruits-into-baskets-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -31,6 +32,7 @@
 | [0278-first-bad-version](https://github.com/AlexshaPonChalesM/leetcode_problems/tree/master/0278-first-bad-version) |
 | [0367-valid-perfect-square](https://github.com/AlexshaPonChalesM/leetcode_problems/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/AlexshaPonChalesM/leetcode_problems/tree/master/0374-guess-number-higher-or-lower) |
+| [3790-fruits-into-baskets-ii](https://github.com/AlexshaPonChalesM/leetcode_problems/tree/master/3790-fruits-into-baskets-ii) |
 ## String
 |  |
 | ------- |
@@ -101,4 +103,12 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/AlexshaPonChalesM/leetcode_problems/tree/master/0070-climbing-stairs) |
+## Segment Tree
+|  |
+| ------- |
+| [3790-fruits-into-baskets-ii](https://github.com/AlexshaPonChalesM/leetcode_problems/tree/master/3790-fruits-into-baskets-ii) |
+## Simulation
+|  |
+| ------- |
+| [3790-fruits-into-baskets-ii](https://github.com/AlexshaPonChalesM/leetcode_problems/tree/master/3790-fruits-into-baskets-ii) |
 <!---LeetCode Topics End-->
