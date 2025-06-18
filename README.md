@@ -13,6 +13,7 @@
 | [0500-keyboard-row](https://github.com/AlexshaPonChalesM/leetcode_problems/tree/master/0500-keyboard-row) |
 | [0561-array-partition](https://github.com/AlexshaPonChalesM/leetcode_problems/tree/master/0561-array-partition) |
 | [0645-set-mismatch](https://github.com/AlexshaPonChalesM/leetcode_problems/tree/master/0645-set-mismatch) |
+| [0682-baseball-game](https://github.com/AlexshaPonChalesM/leetcode_problems/tree/master/0682-baseball-game) |
 | [3790-fruits-into-baskets-ii](https://github.com/AlexshaPonChalesM/leetcode_problems/tree/master/3790-fruits-into-baskets-ii) |
 ## Hash Table
 |  |
@@ -110,5 +111,10 @@
 ## Simulation
 |  |
 | ------- |
+| [0682-baseball-game](https://github.com/AlexshaPonChalesM/leetcode_problems/tree/master/0682-baseball-game) |
 | [3790-fruits-into-baskets-ii](https://github.com/AlexshaPonChalesM/leetcode_problems/tree/master/3790-fruits-into-baskets-ii) |
+## Stack
+|  |
+| ------- |
+| [0682-baseball-game](https://github.com/AlexshaPonChalesM/leetcode_problems/tree/master/0682-baseball-game) |
 <!---LeetCode Topics End-->
