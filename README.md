@@ -50,6 +50,7 @@
 |  |
 | ------- |
 | [0627-swap-salary](https://github.com/AlexshaPonChalesM/leetcode_problems/tree/master/0627-swap-salary) |
+| [1136-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/AlexshaPonChalesM/leetcode_problems/tree/master/1136-actors-and-directors-who-cooperated-at-least-three-times) |
 ## Two Pointers
 |  |
 | ------- |
