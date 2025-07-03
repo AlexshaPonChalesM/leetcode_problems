@@ -27,6 +27,7 @@
 | ------- |
 | [0070-climbing-stairs](https://github.com/AlexshaPonChalesM/leetcode_problems/tree/master/0070-climbing-stairs) |
 | [0367-valid-perfect-square](https://github.com/AlexshaPonChalesM/leetcode_problems/tree/master/0367-valid-perfect-square) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/AlexshaPonChalesM/leetcode_problems/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -79,6 +80,7 @@
 | ------- |
 | [0645-set-mismatch](https://github.com/AlexshaPonChalesM/leetcode_problems/tree/master/0645-set-mismatch) |
 | [0693-binary-number-with-alternating-bits](https://github.com/AlexshaPonChalesM/leetcode_problems/tree/master/0693-binary-number-with-alternating-bits) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/AlexshaPonChalesM/leetcode_problems/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -114,9 +116,14 @@
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/AlexshaPonChalesM/leetcode_problems/tree/master/0682-baseball-game) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/AlexshaPonChalesM/leetcode_problems/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/AlexshaPonChalesM/leetcode_problems/tree/master/3790-fruits-into-baskets-ii) |
 ## Stack
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/AlexshaPonChalesM/leetcode_problems/tree/master/0682-baseball-game) |
+## Recursion
+|  |
+| ------- |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/AlexshaPonChalesM/leetcode_problems/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 <!---LeetCode Topics End-->
