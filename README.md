@@ -14,6 +14,7 @@
 | [0561-array-partition](https://github.com/AlexshaPonChalesM/leetcode_problems/tree/master/0561-array-partition) |
 | [0645-set-mismatch](https://github.com/AlexshaPonChalesM/leetcode_problems/tree/master/0645-set-mismatch) |
 | [0682-baseball-game](https://github.com/AlexshaPonChalesM/leetcode_problems/tree/master/0682-baseball-game) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/AlexshaPonChalesM/leetcode_problems/tree/master/1510-find-lucky-integer-in-an-array) |
 | [3790-fruits-into-baskets-ii](https://github.com/AlexshaPonChalesM/leetcode_problems/tree/master/3790-fruits-into-baskets-ii) |
 ## Hash Table
 |  |
@@ -21,6 +22,7 @@
 | [0001-two-sum](https://github.com/AlexshaPonChalesM/leetcode_problems/tree/master/0001-two-sum) |
 | [0500-keyboard-row](https://github.com/AlexshaPonChalesM/leetcode_problems/tree/master/0500-keyboard-row) |
 | [0645-set-mismatch](https://github.com/AlexshaPonChalesM/leetcode_problems/tree/master/0645-set-mismatch) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/AlexshaPonChalesM/leetcode_problems/tree/master/1510-find-lucky-integer-in-an-array) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/AlexshaPonChalesM/leetcode_problems/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Math
 |  |
@@ -74,6 +76,7 @@
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/AlexshaPonChalesM/leetcode_problems/tree/master/0561-array-partition) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/AlexshaPonChalesM/leetcode_problems/tree/master/1510-find-lucky-integer-in-an-array) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/AlexshaPonChalesM/leetcode_problems/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Bit Manipulation
 |  |
