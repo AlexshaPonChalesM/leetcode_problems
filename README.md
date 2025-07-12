@@ -14,6 +14,7 @@
 | [0561-array-partition](https://github.com/AlexshaPonChalesM/leetcode_problems/tree/master/0561-array-partition) |
 | [0645-set-mismatch](https://github.com/AlexshaPonChalesM/leetcode_problems/tree/master/0645-set-mismatch) |
 | [0682-baseball-game](https://github.com/AlexshaPonChalesM/leetcode_problems/tree/master/0682-baseball-game) |
+| [0841-shortest-distance-to-a-character](https://github.com/AlexshaPonChalesM/leetcode_problems/tree/master/0841-shortest-distance-to-a-character) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/AlexshaPonChalesM/leetcode_problems/tree/master/1510-find-lucky-integer-in-an-array) |
 | [3790-fruits-into-baskets-ii](https://github.com/AlexshaPonChalesM/leetcode_problems/tree/master/3790-fruits-into-baskets-ii) |
 ## Hash Table
@@ -43,6 +44,7 @@
 | [0500-keyboard-row](https://github.com/AlexshaPonChalesM/leetcode_problems/tree/master/0500-keyboard-row) |
 | [0520-detect-capital](https://github.com/AlexshaPonChalesM/leetcode_problems/tree/master/0520-detect-capital) |
 | [0742-to-lower-case](https://github.com/AlexshaPonChalesM/leetcode_problems/tree/master/0742-to-lower-case) |
+| [0841-shortest-distance-to-a-character](https://github.com/AlexshaPonChalesM/leetcode_problems/tree/master/0841-shortest-distance-to-a-character) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/AlexshaPonChalesM/leetcode_problems/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [3617-find-the-original-typed-string-i](https://github.com/AlexshaPonChalesM/leetcode_problems/tree/master/3617-find-the-original-typed-string-i) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/AlexshaPonChalesM/leetcode_problems/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
@@ -61,6 +63,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/AlexshaPonChalesM/leetcode_problems/tree/master/0011-container-with-most-water) |
 | [0088-merge-sorted-array](https://github.com/AlexshaPonChalesM/leetcode_problems/tree/master/0088-merge-sorted-array) |
+| [0841-shortest-distance-to-a-character](https://github.com/AlexshaPonChalesM/leetcode_problems/tree/master/0841-shortest-distance-to-a-character) |
 ## Greedy
 |  |
 | ------- |
