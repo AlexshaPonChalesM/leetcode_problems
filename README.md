@@ -30,6 +30,7 @@
 | ------- |
 | [0070-climbing-stairs](https://github.com/AlexshaPonChalesM/leetcode_problems/tree/master/0070-climbing-stairs) |
 | [0367-valid-perfect-square](https://github.com/AlexshaPonChalesM/leetcode_problems/tree/master/0367-valid-perfect-square) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/AlexshaPonChalesM/leetcode_problems/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/AlexshaPonChalesM/leetcode_problems/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Binary Search
 |  |
@@ -134,4 +135,8 @@
 |  |
 | ------- |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/AlexshaPonChalesM/leetcode_problems/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+## Linked List
+|  |
+| ------- |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/AlexshaPonChalesM/leetcode_problems/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 <!---LeetCode Topics End-->
