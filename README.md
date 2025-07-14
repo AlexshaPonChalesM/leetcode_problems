@@ -59,6 +59,7 @@
 | ------- |
 | [0178-rank-scores](https://github.com/AlexshaPonChalesM/leetcode_problems/tree/master/0178-rank-scores) |
 | [0181-employees-earning-more-than-their-managers](https://github.com/AlexshaPonChalesM/leetcode_problems/tree/master/0181-employees-earning-more-than-their-managers) |
+| [0586-customer-placing-the-largest-number-of-orders](https://github.com/AlexshaPonChalesM/leetcode_problems/tree/master/0586-customer-placing-the-largest-number-of-orders) |
 | [0627-swap-salary](https://github.com/AlexshaPonChalesM/leetcode_problems/tree/master/0627-swap-salary) |
 | [1136-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/AlexshaPonChalesM/leetcode_problems/tree/master/1136-actors-and-directors-who-cooperated-at-least-three-times) |
 ## Two Pointers
