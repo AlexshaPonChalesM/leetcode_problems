@@ -16,6 +16,7 @@
 | [0682-baseball-game](https://github.com/AlexshaPonChalesM/leetcode_problems/tree/master/0682-baseball-game) |
 | [0841-shortest-distance-to-a-character](https://github.com/AlexshaPonChalesM/leetcode_problems/tree/master/0841-shortest-distance-to-a-character) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/AlexshaPonChalesM/leetcode_problems/tree/master/1510-find-lucky-integer-in-an-array) |
+| [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/AlexshaPonChalesM/leetcode_problems/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/AlexshaPonChalesM/leetcode_problems/tree/master/3790-fruits-into-baskets-ii) |
 ## Hash Table
 |  |
@@ -102,6 +103,7 @@
 | [0070-climbing-stairs](https://github.com/AlexshaPonChalesM/leetcode_problems/tree/master/0070-climbing-stairs) |
 | [0152-maximum-product-subarray](https://github.com/AlexshaPonChalesM/leetcode_problems/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/AlexshaPonChalesM/leetcode_problems/tree/master/0198-house-robber) |
+| [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/AlexshaPonChalesM/leetcode_problems/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 ## Tree
 |  |
 | ------- |
