@@ -15,6 +15,7 @@
 | [0645-set-mismatch](https://github.com/AlexshaPonChalesM/leetcode_problems/tree/master/0645-set-mismatch) |
 | [0682-baseball-game](https://github.com/AlexshaPonChalesM/leetcode_problems/tree/master/0682-baseball-game) |
 | [0841-shortest-distance-to-a-character](https://github.com/AlexshaPonChalesM/leetcode_problems/tree/master/0841-shortest-distance-to-a-character) |
+| [1293-three-consecutive-odds](https://github.com/AlexshaPonChalesM/leetcode_problems/tree/master/1293-three-consecutive-odds) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/AlexshaPonChalesM/leetcode_problems/tree/master/1510-find-lucky-integer-in-an-array) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/AlexshaPonChalesM/leetcode_problems/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/AlexshaPonChalesM/leetcode_problems/tree/master/3790-fruits-into-baskets-ii) |
