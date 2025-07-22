@@ -18,6 +18,7 @@
 | [1293-three-consecutive-odds](https://github.com/AlexshaPonChalesM/leetcode_problems/tree/master/1293-three-consecutive-odds) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/AlexshaPonChalesM/leetcode_problems/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1813-maximum-erasure-value](https://github.com/AlexshaPonChalesM/leetcode_problems/tree/master/1813-maximum-erasure-value) |
+| [2190-count-common-words-with-one-occurrence](https://github.com/AlexshaPonChalesM/leetcode_problems/tree/master/2190-count-common-words-with-one-occurrence) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/AlexshaPonChalesM/leetcode_problems/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/AlexshaPonChalesM/leetcode_problems/tree/master/3790-fruits-into-baskets-ii) |
 ## Hash Table
@@ -28,6 +29,7 @@
 | [0645-set-mismatch](https://github.com/AlexshaPonChalesM/leetcode_problems/tree/master/0645-set-mismatch) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/AlexshaPonChalesM/leetcode_problems/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1813-maximum-erasure-value](https://github.com/AlexshaPonChalesM/leetcode_problems/tree/master/1813-maximum-erasure-value) |
+| [2190-count-common-words-with-one-occurrence](https://github.com/AlexshaPonChalesM/leetcode_problems/tree/master/2190-count-common-words-with-one-occurrence) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/AlexshaPonChalesM/leetcode_problems/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Math
 |  |
@@ -52,6 +54,7 @@
 | [0841-shortest-distance-to-a-character](https://github.com/AlexshaPonChalesM/leetcode_problems/tree/master/0841-shortest-distance-to-a-character) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/AlexshaPonChalesM/leetcode_problems/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/AlexshaPonChalesM/leetcode_problems/tree/master/2076-sum-of-digits-of-string-after-convert) |
+| [2190-count-common-words-with-one-occurrence](https://github.com/AlexshaPonChalesM/leetcode_problems/tree/master/2190-count-common-words-with-one-occurrence) |
 | [3396-valid-word](https://github.com/AlexshaPonChalesM/leetcode_problems/tree/master/3396-valid-word) |
 | [3617-find-the-original-typed-string-i](https://github.com/AlexshaPonChalesM/leetcode_problems/tree/master/3617-find-the-original-typed-string-i) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/AlexshaPonChalesM/leetcode_problems/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
@@ -94,6 +97,7 @@
 | ------- |
 | [0561-array-partition](https://github.com/AlexshaPonChalesM/leetcode_problems/tree/master/0561-array-partition) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/AlexshaPonChalesM/leetcode_problems/tree/master/1510-find-lucky-integer-in-an-array) |
+| [2190-count-common-words-with-one-occurrence](https://github.com/AlexshaPonChalesM/leetcode_problems/tree/master/2190-count-common-words-with-one-occurrence) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/AlexshaPonChalesM/leetcode_problems/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Bit Manipulation
 |  |
