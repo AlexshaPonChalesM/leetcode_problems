@@ -17,6 +17,7 @@
 | [0841-shortest-distance-to-a-character](https://github.com/AlexshaPonChalesM/leetcode_problems/tree/master/0841-shortest-distance-to-a-character) |
 | [1293-three-consecutive-odds](https://github.com/AlexshaPonChalesM/leetcode_problems/tree/master/1293-three-consecutive-odds) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/AlexshaPonChalesM/leetcode_problems/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1813-maximum-erasure-value](https://github.com/AlexshaPonChalesM/leetcode_problems/tree/master/1813-maximum-erasure-value) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/AlexshaPonChalesM/leetcode_problems/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/AlexshaPonChalesM/leetcode_problems/tree/master/3790-fruits-into-baskets-ii) |
 ## Hash Table
@@ -26,6 +27,7 @@
 | [0500-keyboard-row](https://github.com/AlexshaPonChalesM/leetcode_problems/tree/master/0500-keyboard-row) |
 | [0645-set-mismatch](https://github.com/AlexshaPonChalesM/leetcode_problems/tree/master/0645-set-mismatch) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/AlexshaPonChalesM/leetcode_problems/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1813-maximum-erasure-value](https://github.com/AlexshaPonChalesM/leetcode_problems/tree/master/1813-maximum-erasure-value) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/AlexshaPonChalesM/leetcode_problems/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Math
 |  |
@@ -150,4 +152,8 @@
 |  |
 | ------- |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/AlexshaPonChalesM/leetcode_problems/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
+## Sliding Window
+|  |
+| ------- |
+| [1813-maximum-erasure-value](https://github.com/AlexshaPonChalesM/leetcode_problems/tree/master/1813-maximum-erasure-value) |
 <!---LeetCode Topics End-->
