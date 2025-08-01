@@ -8,6 +8,7 @@
 | [0011-container-with-most-water](https://github.com/AlexshaPonChalesM/leetcode_problems/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/AlexshaPonChalesM/leetcode_problems/tree/master/0055-jump-game) |
 | [0088-merge-sorted-array](https://github.com/AlexshaPonChalesM/leetcode_problems/tree/master/0088-merge-sorted-array) |
+| [0118-pascals-triangle](https://github.com/AlexshaPonChalesM/leetcode_problems/tree/master/0118-pascals-triangle) |
 | [0152-maximum-product-subarray](https://github.com/AlexshaPonChalesM/leetcode_problems/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/AlexshaPonChalesM/leetcode_problems/tree/master/0198-house-robber) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/AlexshaPonChalesM/leetcode_problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -116,6 +117,7 @@
 | ------- |
 | [0055-jump-game](https://github.com/AlexshaPonChalesM/leetcode_problems/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/AlexshaPonChalesM/leetcode_problems/tree/master/0070-climbing-stairs) |
+| [0118-pascals-triangle](https://github.com/AlexshaPonChalesM/leetcode_problems/tree/master/0118-pascals-triangle) |
 | [0152-maximum-product-subarray](https://github.com/AlexshaPonChalesM/leetcode_problems/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/AlexshaPonChalesM/leetcode_problems/tree/master/0198-house-robber) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/AlexshaPonChalesM/leetcode_problems/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
