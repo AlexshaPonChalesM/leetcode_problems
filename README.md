@@ -17,6 +17,7 @@
 | [0645-set-mismatch](https://github.com/AlexshaPonChalesM/leetcode_problems/tree/master/0645-set-mismatch) |
 | [0682-baseball-game](https://github.com/AlexshaPonChalesM/leetcode_problems/tree/master/0682-baseball-game) |
 | [0841-shortest-distance-to-a-character](https://github.com/AlexshaPonChalesM/leetcode_problems/tree/master/0841-shortest-distance-to-a-character) |
+| [0940-fruit-into-baskets](https://github.com/AlexshaPonChalesM/leetcode_problems/tree/master/0940-fruit-into-baskets) |
 | [1293-three-consecutive-odds](https://github.com/AlexshaPonChalesM/leetcode_problems/tree/master/1293-three-consecutive-odds) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/AlexshaPonChalesM/leetcode_problems/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1813-maximum-erasure-value](https://github.com/AlexshaPonChalesM/leetcode_problems/tree/master/1813-maximum-erasure-value) |
@@ -32,6 +33,7 @@
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/AlexshaPonChalesM/leetcode_problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0500-keyboard-row](https://github.com/AlexshaPonChalesM/leetcode_problems/tree/master/0500-keyboard-row) |
 | [0645-set-mismatch](https://github.com/AlexshaPonChalesM/leetcode_problems/tree/master/0645-set-mismatch) |
+| [0940-fruit-into-baskets](https://github.com/AlexshaPonChalesM/leetcode_problems/tree/master/0940-fruit-into-baskets) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/AlexshaPonChalesM/leetcode_problems/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1813-maximum-erasure-value](https://github.com/AlexshaPonChalesM/leetcode_problems/tree/master/1813-maximum-erasure-value) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/AlexshaPonChalesM/leetcode_problems/tree/master/2190-count-common-words-with-one-occurrence) |
@@ -168,6 +170,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/AlexshaPonChalesM/leetcode_problems/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0940-fruit-into-baskets](https://github.com/AlexshaPonChalesM/leetcode_problems/tree/master/0940-fruit-into-baskets) |
 | [1813-maximum-erasure-value](https://github.com/AlexshaPonChalesM/leetcode_problems/tree/master/1813-maximum-erasure-value) |
 ## Backtracking
 |  |
