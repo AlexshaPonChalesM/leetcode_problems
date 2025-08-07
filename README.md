@@ -84,6 +84,7 @@
 | [1625-group-sold-products-by-the-date](https://github.com/AlexshaPonChalesM/leetcode_problems/tree/master/1625-group-sold-products-by-the-date) |
 | [1734-bank-account-summary-ii](https://github.com/AlexshaPonChalesM/leetcode_problems/tree/master/1734-bank-account-summary-ii) |
 | [1773-percentage-of-users-attended-a-contest](https://github.com/AlexshaPonChalesM/leetcode_problems/tree/master/1773-percentage-of-users-attended-a-contest) |
+| [1811-fix-names-in-a-table](https://github.com/AlexshaPonChalesM/leetcode_problems/tree/master/1811-fix-names-in-a-table) |
 ## Two Pointers
 |  |
 | ------- |
