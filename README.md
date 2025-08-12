@@ -82,6 +82,7 @@
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/AlexshaPonChalesM/leetcode_problems/tree/master/0586-customer-placing-the-largest-number-of-orders) |
 | [0627-swap-salary](https://github.com/AlexshaPonChalesM/leetcode_problems/tree/master/0627-swap-salary) |
 | [1136-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/AlexshaPonChalesM/leetcode_problems/tree/master/1136-actors-and-directors-who-cooperated-at-least-three-times) |
+| [1179-game-play-analysis-i](https://github.com/AlexshaPonChalesM/leetcode_problems/tree/master/1179-game-play-analysis-i) |
 | [1415-students-and-examinations](https://github.com/AlexshaPonChalesM/leetcode_problems/tree/master/1415-students-and-examinations) |
 | [1462-list-the-products-ordered-in-a-period](https://github.com/AlexshaPonChalesM/leetcode_problems/tree/master/1462-list-the-products-ordered-in-a-period) |
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/AlexshaPonChalesM/leetcode_problems/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
