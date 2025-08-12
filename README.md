@@ -79,6 +79,7 @@
 | [0181-employees-earning-more-than-their-managers](https://github.com/AlexshaPonChalesM/leetcode_problems/tree/master/0181-employees-earning-more-than-their-managers) |
 | [0196-delete-duplicate-emails](https://github.com/AlexshaPonChalesM/leetcode_problems/tree/master/0196-delete-duplicate-emails) |
 | [0197-rising-temperature](https://github.com/AlexshaPonChalesM/leetcode_problems/tree/master/0197-rising-temperature) |
+| [0570-managers-with-at-least-5-direct-reports](https://github.com/AlexshaPonChalesM/leetcode_problems/tree/master/0570-managers-with-at-least-5-direct-reports) |
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/AlexshaPonChalesM/leetcode_problems/tree/master/0586-customer-placing-the-largest-number-of-orders) |
 | [0627-swap-salary](https://github.com/AlexshaPonChalesM/leetcode_problems/tree/master/0627-swap-salary) |
 | [1136-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/AlexshaPonChalesM/leetcode_problems/tree/master/1136-actors-and-directors-who-cooperated-at-least-three-times) |
