@@ -23,6 +23,7 @@
 | [1813-maximum-erasure-value](https://github.com/AlexshaPonChalesM/leetcode_problems/tree/master/1813-maximum-erasure-value) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/AlexshaPonChalesM/leetcode_problems/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/AlexshaPonChalesM/leetcode_problems/tree/master/2190-count-common-words-with-one-occurrence) |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/AlexshaPonChalesM/leetcode_problems/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/AlexshaPonChalesM/leetcode_problems/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/AlexshaPonChalesM/leetcode_problems/tree/master/3790-fruits-into-baskets-ii) |
 ## Hash Table
@@ -120,6 +121,7 @@
 | [0645-set-mismatch](https://github.com/AlexshaPonChalesM/leetcode_problems/tree/master/0645-set-mismatch) |
 | [0693-binary-number-with-alternating-bits](https://github.com/AlexshaPonChalesM/leetcode_problems/tree/master/0693-binary-number-with-alternating-bits) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/AlexshaPonChalesM/leetcode_problems/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/AlexshaPonChalesM/leetcode_problems/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/AlexshaPonChalesM/leetcode_problems/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Dynamic Programming
 |  |
@@ -179,6 +181,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/AlexshaPonChalesM/leetcode_problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0940-fruit-into-baskets](https://github.com/AlexshaPonChalesM/leetcode_problems/tree/master/0940-fruit-into-baskets) |
 | [1813-maximum-erasure-value](https://github.com/AlexshaPonChalesM/leetcode_problems/tree/master/1813-maximum-erasure-value) |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/AlexshaPonChalesM/leetcode_problems/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Backtracking
 |  |
 | ------- |
@@ -187,4 +190,12 @@
 |  |
 | ------- |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/AlexshaPonChalesM/leetcode_problems/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+## Queue
+|  |
+| ------- |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/AlexshaPonChalesM/leetcode_problems/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+## Prefix Sum
+|  |
+| ------- |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/AlexshaPonChalesM/leetcode_problems/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 <!---LeetCode Topics End-->
