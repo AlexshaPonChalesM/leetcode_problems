@@ -64,6 +64,7 @@
 | [1302-delete-characters-to-make-fancy-string](https://github.com/AlexshaPonChalesM/leetcode_problems/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/AlexshaPonChalesM/leetcode_problems/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/AlexshaPonChalesM/leetcode_problems/tree/master/2190-count-common-words-with-one-occurrence) |
+| [2346-largest-3-same-digit-number-in-string](https://github.com/AlexshaPonChalesM/leetcode_problems/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [3396-valid-word](https://github.com/AlexshaPonChalesM/leetcode_problems/tree/master/3396-valid-word) |
 | [3617-find-the-original-typed-string-i](https://github.com/AlexshaPonChalesM/leetcode_problems/tree/master/3617-find-the-original-typed-string-i) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/AlexshaPonChalesM/leetcode_problems/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
