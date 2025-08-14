@@ -1,37 +1,10 @@
 class Solution {
     public String largestGoodInteger(String num) {
-        int n=num.length();
-        String ans="";
-        int max=Integer.MIN_VALUE,flag=1;
-        char value='0';
-        for(int i=0;i<n;i++)
+        String[] val={"999","888","777","666","555","444","333","222","111","000"};
+        for(String i:val)
         {
-            char ch=num.charAt(i);
-            int count=0;
-            while(i<n && ch==num.charAt(i))
-            {
-                count++;
-                i++;
-            }
-            i--;
-            System.out.println(count);
-            if(count>=3)
-            {
-                flag=0;
-                int val=ch-'0';
-                System.out.println(val);
-                if(val>max)
-                {
-                    max=Math.max(max,val);
-                    value=ch;
-                }
-            }
+            if(num.contains(i))return i;
         }
-        for(int i=0;i<3;i++)
-        {
-            ans+=value;
-        }
-        if(flag==1)return "";
-        return ans;
+        return "";
     }
 }
