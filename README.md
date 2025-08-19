@@ -23,6 +23,7 @@
 | [1813-maximum-erasure-value](https://github.com/AlexshaPonChalesM/leetcode_problems/tree/master/1813-maximum-erasure-value) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/AlexshaPonChalesM/leetcode_problems/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/AlexshaPonChalesM/leetcode_problems/tree/master/2190-count-common-words-with-one-occurrence) |
+| [2432-number-of-zero-filled-subarrays](https://github.com/AlexshaPonChalesM/leetcode_problems/tree/master/2432-number-of-zero-filled-subarrays) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/AlexshaPonChalesM/leetcode_problems/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/AlexshaPonChalesM/leetcode_problems/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/AlexshaPonChalesM/leetcode_problems/tree/master/3790-fruits-into-baskets-ii) |
@@ -45,6 +46,7 @@
 | [0070-climbing-stairs](https://github.com/AlexshaPonChalesM/leetcode_problems/tree/master/0070-climbing-stairs) |
 | [0367-valid-perfect-square](https://github.com/AlexshaPonChalesM/leetcode_problems/tree/master/0367-valid-perfect-square) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/AlexshaPonChalesM/leetcode_problems/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
+| [2432-number-of-zero-filled-subarrays](https://github.com/AlexshaPonChalesM/leetcode_problems/tree/master/2432-number-of-zero-filled-subarrays) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/AlexshaPonChalesM/leetcode_problems/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Binary Search
 |  |
